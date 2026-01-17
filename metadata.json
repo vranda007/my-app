@@ -1,0 +1,7 @@
+{
+  "name": "DocManage - Simple Clinic OPD Tracker",
+  "description": "A streamlined patient management dashboard for doctors to track visits, fees, and send WhatsApp updates with AI-powered messaging assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
